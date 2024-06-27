@@ -1,2 +1,0 @@
-# psl
-Pelasgian Software License
