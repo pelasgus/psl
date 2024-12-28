@@ -1,4 +1,4 @@
-Pelasgian Software Licence (PSL) Version 1.1
+# Pelasgian Software Licence (PSL) Version 1.1
 
 1. Grant of LicenceSubject to the terms and conditions herein, Pelasgian Technologies ("Licensor") confers upon you ("Licensee") a non-exclusive, non-transferable, and circumscribed right to utilise, amend, and disseminate the software and its associated source code ("Software") for non-commercial, personal, and internal business applications. This licence embodies principles advocated by the Post-Open Source movement, underscoring ethical considerations, equitable usage, and community reciprocity.
 
